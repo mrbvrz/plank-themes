@@ -1,0 +1,9 @@
+#ArHU Plank theme by @0x0050
+
+[PlankDrawingTheme]
+TopRoundness=3
+LineWidth=0
+OuterStrokeColor=0;;0;;0;;0
+FillStartColor=0;;0;;0;;150
+FillEndColor=0;;0;;0;;150
+InnerStrokeColor=0;;0;;0;;0
