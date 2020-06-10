@@ -1,6 +1,6 @@
 # Plank Theme Collection
 
-![Elementary OS Plank with Capeos Theme](/screen/eos-juno-plank.png)
+![Elementary OS Plank with Capeos Theme](/screen/2020-06-10.png)
 
 ## How to install
 
