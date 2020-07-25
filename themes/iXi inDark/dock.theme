@@ -1,0 +1,37 @@
+#iXi inDark
+#Created by PT_Alfred in June 2019
+#@PT_Alfred@mastodon.social
+
+
+[PlankTheme]
+TopRoundness=2
+BottomRoundness=0
+LineWidth=0
+OuterStrokeColor=0;;0;;0;;0
+FillStartColor=0;;0;;0;;91
+FillEndColor=0;;0;;0;;71
+InnerStrokeColor=0;;0;;0;;0
+
+[PlankDockTheme]
+HorizPadding=1
+TopPadding=1
+BottomPadding=2
+ItemPadding=3
+IndicatorSize=7
+IconShadowSize=1.25
+UrgentBounceHeight=1.75
+LaunchBounceHeight=0.625
+FadeOpacity=1
+ClickTime=175
+UrgentBounceTime=600
+LaunchBounceTime=600
+ActiveTime=25
+SlideTime=450
+FadeTime=350
+HideTime=375
+GlowSize=30
+GlowTime=10000
+GlowPulseTime=2750
+UrgentHueShift=175
+ItemMoveTime=450
+CascadeHide=true

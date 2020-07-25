@@ -1,0 +1,36 @@
+#Neo inDay from Cupertino Series
+#Created by PT_Alfred in june 2019
+#@PT_Alfred@mastodon.social
+
+[PlankTheme]
+TopRoundness=2
+BottomRoundness=0
+LineWidth=0
+OuterStrokeColor=0;;0;;0;;0
+FillStartColor=165;;165;;176;;141
+FillEndColor=165;;165;;176;;127
+InnerStrokeColor=0;;0;;0;;0
+
+[PlankDockTheme]
+HorizPadding=3
+TopPadding=1
+BottomPadding=1
+ItemPadding=3
+IndicatorSize=7
+IconShadowSize=1.25
+UrgentBounceHeight=1.75
+LaunchBounceHeight=0.625
+FadeOpacity=1
+ClickTime=175
+UrgentBounceTime=600
+LaunchBounceTime=600
+ActiveTime=25
+SlideTime=450
+FadeTime=350
+HideTime=375
+GlowSize=30
+GlowTime=10000
+GlowPulseTime=2750
+UrgentHueShift=175
+ItemMoveTime=450
+CascadeHide=true

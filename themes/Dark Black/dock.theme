@@ -1,38 +1,35 @@
-# Frost Plank Theme - Quite dark Plank theme
-#
-# Author:       Diki Ananta
-# Repository:   https://github.com/dikiaap/frost-plank-theme
-# License:      MIT
+#@@mac like dock theme by Mahdi Mohammad Shibli.
+#2017-12-01T16:43:17+0000
 
 [PlankTheme]
 #The roundness of the top corners.
-TopRoundness=5
+TopRoundness=0
 #The roundness of the bottom corners.
 BottomRoundness=0
 #The thickness (in pixels) of lines drawn.
-LineWidth=1
+LineWidth=0
 #The color (RGBA) of the outer stroke.
-OuterStrokeColor=23;;23;;23;;255
+OuterStrokeColor=100;;20;;20;;200
 #The starting color (RGBA) of the fill gradient.
-FillStartColor=45;;45;;45;;255
+FillStartColor=10;;10;;25;;200
 #The ending color (RGBA) of the fill gradient.
-FillEndColor=45;;45;;45;;255
+FillEndColor=20;;20;;35;;150
 #The color (RGBA) of the inner stroke.
-InnerStrokeColor=45;;45;;45;;255
+InnerStrokeColor=20;;20;;20;;200
 
 [PlankDockTheme]
 #The padding on the left/right dock edges, in tenths of a percent of IconSize.
-HorizPadding=0
+HorizPadding=2
 #The padding on the top dock edge, in tenths of a percent of IconSize.
-TopPadding=-8
+TopPadding=2
 #The padding on the bottom dock edge, in tenths of a percent of IconSize.
-BottomPadding=1.5
+BottomPadding=2
 #The padding between items on the dock, in tenths of a percent of IconSize.
-ItemPadding=2.3
+ItemPadding=2.5
 #The size of item indicators, in tenths of a percent of IconSize.
-IndicatorSize=4
+IndicatorSize=5
 #The size of the icon-shadow behind every item, in tenths of a percent of IconSize.
-IconShadowSize=0.6
+IconShadowSize=10
 #The height (in percent of IconSize) to bounce an icon when the application sets urgent.
 UrgentBounceHeight=1.6666666666666667
 #The height (in percent of IconSize) to bounce an icon when launching an application.
@@ -46,22 +43,22 @@ UrgentBounceTime=600
 #The amount of time (in ms) to bounce an icon when launching an application.
 LaunchBounceTime=600
 #The amount of time (in ms) for active window indicator animations.
-ActiveTime=200
+ActiveTime=300
 #The amount of time (in ms) to slide icons into/out of the dock.
-SlideTime=200
+SlideTime=300
 #The time (in ms) to fade the dock in/out on a hide (if FadeOpacity is < 1).
 FadeTime=250
 #The time (in ms) to slide the dock in/out on a hide (if FadeOpacity is 1).
-HideTime=150
+HideTime=250
 #The size of the urgent glow (shown when dock is hidden), in tenths of a percent of IconSize.
 GlowSize=30
 #The total time (in ms) to show the hidden-dock urgent glow.
 GlowTime=10000
 #The time (in ms) of each pulse of the hidden-dock urgent glow.
-GlowPulseTime=1000
+GlowPulseTime=2000
 #The hue-shift (-180 to 180) of the urgent indicator color.
 UrgentHueShift=150
 #The time (in ms) to move an item to its new position or its addition/removal to/from the dock.
-ItemMoveTime=150
+ItemMoveTime=450
 #Whether background and icons will unhide/hide with different speeds. The top-border of both will leave/hit the screen-edge at the same time.
 CascadeHide=true

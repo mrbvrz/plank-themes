@@ -1,0 +1,36 @@
+#The Cupertino Effect inGrey - Xtreme Dark Edition
+#Created by PT_Alfred in July 2019
+#@PTAlfred@mastodon.art
+
+[PlankTheme]
+TopRoundness=2
+BottomRoundness=0
+LineWidth=0
+OuterStrokeColor=0;;0;;0;;0
+FillStartColor=165;;165;;176;;247
+FillEndColor=165;;165;;176;;241
+InnerStrokeColor=0;;0;;0;;0
+
+[PlankDockTheme]
+HorizPadding=9
+TopPadding=1
+BottomPadding=1
+ItemPadding=5
+IndicatorSize=7
+IconShadowSize=1.25
+UrgentBounceHeight=1.75
+LaunchBounceHeight=0.625
+FadeOpacity=1
+ClickTime=175
+UrgentBounceTime=600
+LaunchBounceTime=600
+ActiveTime=25
+SlideTime=4750
+FadeTime=350
+HideTime=725
+GlowSize=30
+GlowTime=10000
+GlowPulseTime=2750
+UrgentHueShift=175
+ItemMoveTime=450
+CascadeHide=true
