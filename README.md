@@ -2,9 +2,35 @@
 
 ![Elementary OS Plank with Capeos Theme](/screen/2020-06-10.png)
 
-## How to install
+## Install
 
-To install the [**Plank**](https://launchpad.net/plank) themes, copy the contents of the Plank Themes folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use. Now open the Plank preferences window by executing `plank --preferences` from a terminal and then select from the themes.
+Install plank theme with run `install.sh` files (install all themes)
+
+```shell
+git clone https://github.com/mrbvrz/plank-themes.git
+cd plank-themes
+./install.sh
+```
+
+or you can do manual install, copy the contents of the Plank Themes folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide.
+
+```shell
+git clone https://github.com/mrbvrz/plank-themes.git
+cd plank-themes/themes
+
+~/.local/share/plank/themes
+
+/usr/share/plank/themes
+```
+
+## Usage
+
+After finishing installation, run this command in your Terminal:
+
+```shell
+plank --preferences
+```
+Then select themes as your Plank theme.
 
 <br>
 
