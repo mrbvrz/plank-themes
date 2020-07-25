@@ -4,14 +4,14 @@
 
 ## Install
 
-Install plank theme with run `install.sh` files (install all themes)
+Install plank theme with run **`install.sh`** files (install all themes)
 
 ```terminal
 git clone https://github.com/mrbvrz/plank-themes.git
 cd plank-themes
 ./install.sh
 ```
-or you can do manual install, copy the contents of the plank themes folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide.
+or you can do manual install, copy the contents of the plank themes folder to **`~/.local/share/plank/themes`** or to **`/usr/share/plank/themes`** for system-wide.
 
 ```terminal
 git clone https://github.com/mrbvrz/plank-themes.git
